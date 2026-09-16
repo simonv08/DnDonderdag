@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "e4efe3728de71115",
+        "id": "f823e10e81a4ec14",
         "type": "tabs",
         "children": [
           {
-            "id": "cb14391df167b032",
+            "id": "487f790dea34a094",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Aurelia/Aurelia - Adventure Hub.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aurelia - Adventure Hub"
             }
           }
         ]
@@ -95,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adventures/Aurelia/Aurelia - Adventure Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Adventures/Aurelia/Aurelia - Adventure Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Adventures/Aurelia/Aurelia - Adventure Hub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -162,13 +179,43 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7d69776243d5e7a7",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "e14021d060be780e",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-gameplay",
+              "state": {},
+              "icon": "gameplay",
+              "title": "Gameplay"
+            }
+          },
+          {
+            "id": "fb0e25c933b02252",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-templates-sidebar",
+              "state": {},
+              "icon": "mapmaking",
+              "title": "VVorldbuiling"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +227,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "git-vault-sync:Git Vault Sync: Sync vault": false,
-      "git-vault-sync:Git Vault Sync: Review changes & sync": false
+      "git-vault-sync:Git Vault Sync: Review changes & sync": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "modalforms:Edit forms": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "vvunderlore-toolkit:VVunderlore Sidebars": false
     }
   },
-  "active": "cb14391df167b032",
+  "active": "0ee33eb074da52f6",
   "lastOpenFiles": [
+    "Adventures/Aurelia/Aurelia - Adventure Hub.md",
     "Welcome.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Windvane.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Tinderstrike.md",
@@ -210,7 +266,6 @@
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Khrusor, Spear of Heliod.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Junky +1 Dagger.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Javelin of Backbiting.md",
-    "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Elven Thrower.md",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Species/Tiefling/Races/Variant",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Species/Merfolk/Races/Zendikar",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Species/Merfolk/Races/Ixalan",
