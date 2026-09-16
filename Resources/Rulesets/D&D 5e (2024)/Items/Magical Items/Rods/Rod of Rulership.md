@@ -1,0 +1,13 @@
+---
+name: "Rod of Rulership"
+type: "Rod"
+rarity: "Rare"
+weight: 2
+Attunement: false
+source: ["XDMG"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Rod of Rulership
+
+You can take a [[Actions#Magic|Magic]] action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of yourself. Each target must succeed on a 15 Wisdom saving throw or have the [[Conditions#Charmed|Charmed]] condition for 8 hours. While [[Conditions#Charmed|Charmed]] in this way, the creature regards you as its trusted leader. If harmed by you or your allies or commanded to do something contrary to its nature, a target ceases to be [[Conditions#Charmed|Charmed]] in this way. Once used, this property can't be used again until the next dawn.

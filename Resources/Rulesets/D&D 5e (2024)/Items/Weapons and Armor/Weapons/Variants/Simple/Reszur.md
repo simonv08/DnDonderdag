@@ -1,0 +1,18 @@
+---
+name: "Reszur"
+type: "Simple Weapon"
+rarity: "Uncommon"
+weight: 1
+properties: ["Finesse", "Light", "Thrown"]
+damage: "1d4"
+damageTypes: ["Piercing"]
+range: "20/60"
+source: ["Princes of the Apocalypse"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Reszur
+
+You have a +1 bonus to attack and damage rolls made with this weapon, which doesn't make noise when it hits or cuts something.
+
+The name "Reszur" is graven on the dagger's pommel. If the wielder speaks the name, the blade gives off a faint, cold glow, shedding dim light in a 10-foot radius until the wielder speaks the name again.

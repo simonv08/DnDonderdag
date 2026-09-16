@@ -1,0 +1,29 @@
+---
+name: "Thorn Whip"
+level: 0
+school: "Transmutation"
+casting_time: "1 action"
+Range: "30 feet"
+damage_type: "piercing"
+duration: "Instantaneous"
+verbal: true
+somatic: true
+material: true
+Components: ["the stem of a plant with thorns"]
+concentration: false
+source: ["Player's Handbook"]
+ruleset: "D&D 5e (2014)"
+---
+# Thorn Whip
+### *Transmutation Cantrip*
+**Casting Time:** 1 action
+**Range:** 30 feet
+**Components:** V, S, M (the stem of a plant with thorns)
+**Duration:** Instantaneous
+
+You create a long, vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. If the attack hits, the creature takes 1d6 piercing damage, and if the creature is Large or smaller, you pull the creature up to 10 feet closer to you.
+
+This spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+---
+**Source:** Player's Handbook (2014)

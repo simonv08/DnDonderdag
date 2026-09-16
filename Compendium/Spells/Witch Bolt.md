@@ -1,0 +1,29 @@
+---
+name: "Witch Bolt"
+level: 1
+school: "Evocation"
+casting_time: "1 action"
+Range: "30 feet"
+damage_type: "lightning"
+duration: "1 minute (concentration)"
+verbal: true
+somatic: true
+material: true
+Components: ["a twig from a tree that has been struck by lightning"]
+concentration: true
+source: ["Player's Handbook"]
+ruleset: "D&D 5e (2014)"
+---
+# Witch Bolt
+### *1st-level Evocation Spell* *(Concentration)*
+**Casting Time:** 1 action
+**Range:** 30 feet
+**Components:** V, S, M (a twig from a tree that has been struck by lightning)
+**Duration:** 1 minute (concentration)
+
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d12 lightning damage, and on each of your turns for the duration, you can use your action to deal 1d12 lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell's range or if it has Cover from you.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d12 for each slot level above 1st.
+
+---
+**Source:** Player's Handbook (2014)

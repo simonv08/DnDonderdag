@@ -1,0 +1,15 @@
+---
+name: "Carpet of Flying, 3 ft. × 5 ft."
+rarity: "Very rare"
+magical: true
+Attunement: false
+vermun: false
+source: ["Dungeon Master's Guide"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Carpet of Flying, 3 ft. × 5 ft.
+
+You can speak the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
+
+A 3 ft. × 5 ft. carpet can carry up to 200 lb. at a fly speed of 80 feet. A carpet can carry up to twice this weight, but it flies at half speed if it carries more than its normal capacity.

@@ -1,0 +1,35 @@
+---
+name: "Belak the Outcast"
+size: ["Medium"]
+type: "Humanoid (Human)"
+Alignment: "Any"
+HP: 27
+speed: ["Walk 30 ft."]
+skills: ["Medicine +4", "Nature +3", "Perception +4"]
+languages: ["Druidic plus any two languages"]
+CR: "2"
+source: ["Tales from the Yawning Portal"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Belak the Outcast
+
+Medium Humanoid (Human), A
+
+**Armor Class**: undefined
+**Hit Points**: 27
+**Speed**: walk 30 ft.
+**Skills**: Medicine +4, Nature +3, Perception +4
+**Languages**: Druidic plus any two languages
+**Challenge**: 2
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 10 | 12 | 13 | 12 | 15 | 11 |
+
+### Spellcasting
+***Spellcasting.***
+The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save 12, 4 to hit with spell attacks). It has the following druid spells prepared:
+
+### Actions
+***Quarterstaff.*** 2 to hit (4 to hit with shillelagh), reach 5 ft., one target. 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh or if wielded with two hands.

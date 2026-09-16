@@ -1,0 +1,22 @@
+---
+name: "Dagger"
+type: "Simple Weapon"
+cost: "2gp"
+weight: 1
+properties: ["F|XPHB", "L|XPHB", "T|XPHB"]
+damage: "1d4"
+damageTypes: ["Piercing"]
+range: "20/60"
+source: ["XPHB"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Dagger
+
+### *Simple Weapon*
+**Category**: Simple
+**Damage**: 1d4
+**Damage Type**: Piercing
+**Range**: 20/60
+**Reload**: —
+**Properties**: F|XPHB, L|XPHB, T|XPHB

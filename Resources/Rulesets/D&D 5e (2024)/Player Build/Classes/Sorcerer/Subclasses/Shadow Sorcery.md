@@ -1,0 +1,77 @@
+---
+traits: ["[[Shadow Sorcery#Power Of Shadow|Power of Shadow]]", "[[Shadow Sorcery#Shadow Sorcery|Shadow Sorcery]]", "[[Shadow Sorcery#Shadow Spells|Shadow Spells]]", "[[Shadow Sorcery#Beasts Of Ill Omen|Beasts of Ill Omen]]", "[[Shadow Sorcery#Shadow Walk|Shadow Walk]]", "[[Shadow Sorcery#Umbral Form|Umbral Form]]"]
+---
+
+# Shadow Sorcery
+
+**Parent Class:** [[Sorcerer]]
+
+**Source:** RHW
+
+Your innate magic comes from the most nebulous and inscrutable forces of the Shadowfell or from other regions of supernatural darkness. You might trace your lineage to an entity from such a place, or perhaps you were exposed to the sinister energy of a shadow dragon and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe.
+
+---
+
+## Level 3
+
+### Power of Shadow
+
+You gain the following benefits.
+
+##### Eyes of the Dark
+
+You have Darkvision|XPHB with a range of 120 feet and Blindsight|XPHB with a range of 10 feet. In addition, if a spell you cast creates an area of , you can see normally through that spell's Darkness.
+
+##### Strength of the Grave
+
+If you would drop to 0  and not die outright, you can make a Charisma saving throw (5 plus the damage taken). On a successful save, your  instead change to a number equal to your Charisma modifier plus your Sorcerer level. After you succeed on this save, you can't use this benefit again until you finish a .
+
+### Shadow Sorcery
+
+Your innate magic comes from the most nebulous and inscrutable forces of the Shadowfell or from other regions of supernatural darkness. You might trace your lineage to an entity from such a place, or perhaps you were exposed to the sinister energy of a shadow dragon and were transformed by it. Your shadowy magic allows you to command darkness, undeath, and woe.
+
+### Shadow Spells
+
+When you reach a Sorcerer level specified in the Shadow Spells table, you thereafter always have the listed spells prepared.
+
+##### Shadow Spells
+| Sorcerer Level | Spells |
+| :-- | :-- |
+| 3 | [[Bane]], [[Darkness]], [[Inflict Wounds]], [[Pass Without Trace]] |
+| 5 | [[Hunger Of Hadar]], [[Nondetection]] |
+| 7 | [[Greater Invisibility]], [[Phantasmal Killer]] |
+| 9 | [[Contagion]], [[Creation]] |
+
+---
+
+## Level 6
+
+### Beasts of Ill Omen
+
+You can call forth a howling creature of shadow to hound your foes. You can spend 3 Sorcery Points to cast [[Summon Beast]] as a  without expending a spell slot, without preparing the spell, and without Material components. The summoned creature appears as a beast made of shadow, and enemies within 5 feet of the summoned creature have  on saving throws against spells you cast.
+
+Whenever you cast the spell, you can modify it so that it doesn't require [[Statuss#Concentration|Concentration]]. If you do so, the spell's duration becomes 1 minute for that casting, and the spell ends early if you cast the spell again.
+
+---
+
+## Level 14
+
+### Shadow Walk
+
+While you are in  or , you can take a  to teleport up to 120 feet to an unoccupied space you can see that is also in  or .
+
+---
+
+## Level 18
+
+### Umbral Form
+
+When you use Innate Sorcery, you can adopt a shadowy form, gaining the benefits below while your Innate Sorcery is active or until you end the form (no action required). Once you use this feature, you can't use it again until you finish a  unless you spend 6 Sorcery Points (no action required) to restore your use of it.
+
+##### Incorporeal Movement
+
+You can move through creatures and objects as if they were , but you take 1d10 Force damage if you end your turn inside a creature or an object.
+
+##### Shadow Resilience
+
+You have  to all damage except Force and Radiant damage.

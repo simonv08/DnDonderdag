@@ -1,0 +1,11 @@
+{
+  "mode": "autonomous",
+  "minWordLength": 3,
+  "caseSensitive": false,
+  "includeAliases": true,
+  "customFolders": [],
+  "debounceMs": 50,
+  "maxSuggestions": 10,
+  "customAllowEnterAccept": true,
+  "customAutoInsertSingleMatch": true
+}

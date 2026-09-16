@@ -1,0 +1,12 @@
+---
+name: "Warm Fungal Clothing"
+type: "Gear"
+cost: "15gp"
+weight: 4
+source: ["FRHoF"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Warm Fungal Clothing
+
+When you're wearing Warm Fungal Clothing, you automatically succeed on saving throws against the effects of extreme cold. See chapter 3 of the Dungeon Master's Guide for rules on extreme cold. One pound of fungus is sewn into Fungal Clothing. This fungus can be eaten as food. Once all the fungus is consumed, this becomes a mundane set of [[Traveler's Clothes]].

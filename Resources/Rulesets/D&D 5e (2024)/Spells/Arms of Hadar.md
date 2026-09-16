@@ -1,0 +1,30 @@
+---
+name: "Arms of Hadar"
+level: 1
+school: "Conjuration"
+casting_time: "1 action"
+Range: "Varies"
+saving_throws: ["Strength"]
+duration: "Instantaneous"
+verbal: true
+somatic: true
+material: false
+concentration: false
+source: ["XPHB"]
+ruleset: "D&D 5e (2025)"
+---
+# Arms of Hadar
+### *1st-level Conjuration Spell*
+**Casting Time:** 1 action
+**Range:** Varies
+**Components:** V, S
+**Saving Throw:** Strength
+**Duration:** Instantaneous
+
+Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10-foot  originating from you makes a Strength saving throw. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
+
+##### Using a Higher-Level Spell Slot
+The damage increases by 1d6 for each spell slot level above 1.
+
+---
+**Source:** XPHB

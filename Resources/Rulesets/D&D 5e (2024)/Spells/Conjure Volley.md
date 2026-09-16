@@ -1,0 +1,28 @@
+---
+name: "Conjure Volley"
+level: 5
+school: "Conjuration"
+casting_time: "1 action"
+Range: "150 feet"
+saving_throws: ["Dexterity"]
+duration: "Instantaneous"
+verbal: true
+somatic: true
+material: true
+Components: ["a Melee or Ranged weapon worth at least 1 CP"]
+concentration: false
+source: ["XPHB"]
+ruleset: "D&D 5e (2025)"
+---
+# Conjure Volley
+### *5th-level Conjuration Spell*
+**Casting Time:** 1 action
+**Range:** 150 feet
+**Components:** V, S, M (a Melee or Ranged weapon worth at least 1 CP)
+**Saving Throw:** Dexterity
+**Duration:** Instantaneous
+
+You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high  centered on that point makes a Dexterity saving throw. A creature takes 8d8 Force damage on a failed save or half as much damage on a successful one.
+
+---
+**Source:** XPHB

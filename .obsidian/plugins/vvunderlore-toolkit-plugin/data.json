@@ -1,0 +1,184 @@
+{
+  "installedVersion": "1.0.0",
+  "customizeUpdates": false,
+  "updateTargets": {
+    "tools": true,
+    "toolsPath": "Tools",
+    "templates": true,
+    "templatesPath": "Extras/Templates",
+    "omninomicon": true,
+    "omninomiconPath": "Adventures/Omninomicon.md",
+    "spellbook": true,
+    "spellbookPath": "Compendium/Spells/_Spellbook.md"
+  },
+  "latestDefaults": {},
+  "pathOverrides": {},
+  "backupFiles": {},
+  "backupPath": "",
+  "autoBackup": false,
+  "lastBackupTime": "",
+  "backupError": "",
+  "customPaths": [],
+  "autoBackupBeforeUpdate": true,
+  "highlightEnabled": false,
+  "highlightColorLight": "#DFE7E2",
+  "highlightColorDark": "#1F2943",
+  "rulesetCompendium": "",
+  "rulesetReference": [],
+  "reparseGamesets": true,
+  "isFirstRun": "yes",
+  "sessionTitlePreference": "name",
+  "enableSidebarPreviews": true,
+  "latestToolkitVersion": "1.1.7",
+  "lastChecked": "2025-10-08T00:36:44.666Z",
+  "gameplay": {
+    "selectedPlayers": [],
+    "activeFolder": "World/People/Player Characters/Active"
+  },
+  "fileCache": {
+    ".vvunderlore_installed": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "githubPath": ".vvunderlore_installed"
+    },
+    "Adventures/Omninomicon.md": {
+      "hash": "71dff1deb85a5f2a14ec6766a70a61f6f8b37a0872875f780e0ae0f9372b115d",
+      "githubPath": "Adventures/Omninomicon.md"
+    },
+    "Adventures/The Testing of VVunderlore/Adventure/Chapter 1 - A Man with a Dream.md": {
+      "hash": "386105a01fb3f1d25c14c64794db9f5f54922cf3faf18d7787f9560dd442fca1",
+      "githubPath": "Adventures/The Testing of VVunderlore/Adventure/Chapter 1 - A Man with a Dream.md"
+    },
+    "Adventures/The Testing of VVunderlore/Session Notes/Session 1 - 3.18.25.md": {
+      "hash": "c56703b8054460d2a731a232ee9b40f9c23dfd3c3f2dbfd4180dd164fe53092e",
+      "githubPath": "Adventures/The Testing of VVunderlore/Session Notes/Session 1 - 3.18.25.md"
+    },
+    "Adventures/The Testing of VVunderlore/Session Notes/Session 2 - 3.19.25.md": {
+      "hash": "49b176c70f54b89f2459002cc168980eb03bb05d8e27d33abd7e1a9b866b7c5e",
+      "githubPath": "Adventures/The Testing of VVunderlore/Session Notes/Session 2 - 3.19.25.md"
+    },
+    "Adventures/The Testing of VVunderlore/Session Notes/Session 3 - 2.25.25.md": {
+      "hash": "c542bc6c9056242c6ac62ffe7cad31062dd283bd6f7fdf50d9c867db45fceef0",
+      "githubPath": "Adventures/The Testing of VVunderlore/Session Notes/Session 3 - 2.25.25.md"
+    },
+    "Adventures/The Testing of VVunderlore/The Testing of VVunderlore - Adventure Hub.md": {
+      "hash": "13cb65ffe06bc5ffcc98d9e4983bd5567db4be30f3b2f4972d93278dcdb74c38",
+      "githubPath": "Adventures/The Testing of VVunderlore/The Testing of VVunderlore - Adventure Hub.md"
+    },
+    "Extras/PC Dashboards/dash-Burrata Ensalada.md": {
+      "hash": "b446191beb388fafb97a2241f59e4ff1ad7c4fe12ed44e56ee57b359227f5c8c",
+      "githubPath": "Extras/PC Dashboards/dash-Burrata Ensalada.md"
+    },
+    "Extras/PC Dashboards/dash-Chixlum the Handsy.md": {
+      "hash": "87bc9916dac6daf7a503cac50f711edce553155f72a4d41031493bcca561d0c7",
+      "githubPath": "Extras/PC Dashboards/dash-Chixlum the Handsy.md"
+    },
+    "Extras/PC Dashboards/dash-Munch Tippledew.md": {
+      "hash": "d48160ecf7b734a6f5b7a0805ef5866434a7976e4175e87bec57ac9ee98af171",
+      "githubPath": "Extras/PC Dashboards/dash-Munch Tippledew.md"
+    },
+    "Extras/SYS/The Testing of VVunderlore_summary.md": {
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "githubPath": "Extras/SYS/The Testing of VVunderlore_summary.md"
+    },
+    "Extras/Templates/_startup_init.md": {
+      "hash": "e61a61d5be453d847b6fa549e0f3bf063bf9b8a059303e6c6b41c22d0b3be666",
+      "githubPath": "Extras/Templates/_startup_init.md"
+    },
+    "Extras/Templates/(The Testing of VVunderlore)sessiontemplate.md": {
+      "hash": "68989e958f68bf5990087cadbb9f566701510af0f81d7df6b97b990821a08fc8",
+      "githubPath": "Extras/Templates/(The Testing of VVunderlore)sessiontemplate.md"
+    },
+    "Extras/Templates/base_sessiontemplate.md": {
+      "hash": "3086b02c287544c5ef84cb65863e57c68117a31758f9cad7dfec0cd2b49eb0e3",
+      "githubPath": "Extras/Templates/base_sessiontemplate.md"
+    },
+    "Extras/Templates/newadventure_template.md": {
+      "hash": "b803e6e2e489057fb6e7e34dfcffe3ef0437138bc36a1fc7e08907391f6729af",
+      "githubPath": "Extras/Templates/newadventure_template.md"
+    },
+    "Extras/Templates/newcreature_template.md": {
+      "hash": "fd80c2926c7e1cbceaf884658f15dca98b6b392cc60ffcfa7a9ce56e663fa6fa",
+      "githubPath": "Extras/Templates/newcreature_template.md"
+    },
+    "Extras/Templates/newitem_template.md": {
+      "hash": "1c4b491caaa6e9e2e7a0f375acf52131e85f5242920aeb289822f69ac5875e39",
+      "githubPath": "Extras/Templates/newitem_template.md"
+    },
+    "Extras/Templates/newplace_template.md": {
+      "hash": "113018b3764375c2be2258dfb3d46c697a5e282cb83991b3edc353a68efc2d04",
+      "githubPath": "Extras/Templates/newplace_template.md"
+    },
+    "Extras/Templates/npc_template.md": {
+      "hash": "459d1e39a0e6aa7f2476605034b2abb3f5061fd77b5c1e917360f0b3b7d67e61",
+      "githubPath": "Extras/Templates/npc_template.md"
+    },
+    "Extras/Templates/playercharacter_template.md": {
+      "hash": "bf66621cb6c9ccefd5578d5ebd23f813f9da9889ecce4e1071a5d7853164653d",
+      "githubPath": "Extras/Templates/playercharacter_template.md"
+    },
+    "Extras/Templates/playerdash_template.md": {
+      "hash": "3fbf528beb9cd6cd01872aaa898c617999a572dbc525addb4c64e832ce367c7f",
+      "githubPath": "Extras/Templates/playerdash_template.md"
+    },
+    "Extras/Templates/statblock_template.md": {
+      "hash": "6365006e293df79268e5fedff51e907ec7780fe19836453f88270cbe1ebb3119",
+      "githubPath": "Extras/Templates/statblock_template.md"
+    },
+    "Extras/Templates/tmp_primer.md": {
+      "hash": "96c105c21160468fe57a3883c53912c45231a4f2faee60e3ded03e6d32c34e77",
+      "githubPath": "Extras/Templates/tmp_primer.md"
+    },
+    "Extras/Templates/vermunitem_template.md": {
+      "hash": "20269b767eadee4c9497786ddf9ace20ae24995862457a9322c78ba13beebb27",
+      "githubPath": "Extras/Templates/vermunitem_template.md"
+    },
+    "Extras/Toolkit Bases/pc_abilities.base": {
+      "hash": "bed92cc521aa79624173187aece0dbf1c80fd7f38d030f9216b47a9cb0a60698",
+      "githubPath": "Extras/Toolkit Bases/pc_abilities.base"
+    },
+    "Extras/Toolkit Bases/pc_spells.base": {
+      "hash": "b62d0c07fd9a367d63d06ba00cbf458766c60354392db38e81920603919c0650",
+      "githubPath": "Extras/Toolkit Bases/pc_spells.base"
+    },
+    "Extras/Toolkit Bases/pc_stats.base": {
+      "hash": "08661152224623ccafbb4b637774008faa3266b6c82f6929adaff581e1002a0b",
+      "githubPath": "Extras/Toolkit Bases/pc_stats.base"
+    },
+    "Tools/Party Overview.md": {
+      "hash": "54eee8cc8184294ed6a6d88cb2a305c28c4843f78c68d0e408b4e5fbb0df4caf",
+      "githubPath": "Tools/Party Overview.md"
+    },
+    "Tools/Spellbook.md": {
+      "hash": "338c5e786fc70614434df46409e6885adfadb2aca106955dfffe2d365ea5c32e",
+      "githubPath": "Tools/Spellbook.md"
+    },
+    "Tools/Vermun the Wandering Trader.md": {
+      "hash": "70c8216d5a40e1fc62b80f3190d7befc6ffee8b66c4644f01e97b1fac900aa0e",
+      "githubPath": "Tools/Vermun the Wandering Trader.md"
+    },
+    "Welcome.md": {
+      "hash": "c4afdda89685870843c3a5921788567c59c99d84be834fd6159490ce78dca21e",
+      "githubPath": "Welcome.md"
+    },
+    "World/People/Non-Player Characters/Lomin Topplesquirt.md": {
+      "hash": "e5b3b76e3c5cbca6166b3dea1ac456db28dda2dc406d8f608cee0cb833a17d0f",
+      "githubPath": "World/People/Non-Player Characters/Lomin Topplesquirt.md"
+    },
+    "World/People/Player Characters/Active/Chixlum the Handsy.md": {
+      "hash": "f39ee6ff057eee9eb449027f31b23501ac4cd5d84a613f42b0fa82e3f0f1b5d3",
+      "githubPath": "World/People/Player Characters/Active/Chixlum the Handsy.md"
+    },
+    "World/People/Player Characters/Active/Munch Tippledew.md": {
+      "hash": "6c3c3839dc37d086f33ea3215e4d8d8eefb6e27ca6ec8a93124a98ac490dad2b",
+      "githubPath": "World/People/Player Characters/Active/Munch Tippledew.md"
+    },
+    "World/People/Player Characters/Inactive/Burrata Ensalada.md": {
+      "hash": "0e89866babb7da5a3cb8bc2ed0da358c74ba483979c7671f429a95d299d08895",
+      "githubPath": "World/People/Player Characters/Inactive/Burrata Ensalada.md"
+    },
+    "World/Places/EXAMPLE - Tower of Struug Nur.md": {
+      "hash": "6f776413a365eb7d04b8784d85c0487526b4776d4384549f7c8825c27642a7b9",
+      "githubPath": "World/Places/EXAMPLE - Tower of Struug Nur.md"
+    }
+  }
+}

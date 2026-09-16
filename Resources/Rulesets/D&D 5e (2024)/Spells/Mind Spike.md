@@ -1,0 +1,30 @@
+---
+name: "Mind Spike"
+level: 2
+school: "Divination"
+casting_time: "1 action"
+Range: "120 feet"
+saving_throws: ["Wisdom"]
+duration: "1 hour (concentration)"
+verbal: false
+somatic: true
+material: false
+concentration: true
+source: ["XPHB"]
+ruleset: "D&D 5e (2025)"
+---
+# Mind Spike
+### *2nd-level Divination Spell* *(Concentration)*
+**Casting Time:** 1 action
+**Range:** 120 feet
+**Components:** S
+**Saving Throw:** Wisdom
+**Duration:** 1 hour (concentration)
+
+You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the [[Conditions#Invisible|Invisible]] condition, it gains no benefit from that condition against you.
+
+##### Using a Higher-Level Spell Slot
+The damage increases by 1d8 for each spell slot level above 2.
+
+---
+**Source:** XPHB

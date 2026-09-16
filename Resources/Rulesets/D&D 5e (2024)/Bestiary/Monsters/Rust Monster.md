@@ -1,0 +1,37 @@
+---
+name: "Rust Monster"
+size: ["Medium"]
+type: "Monstrosity"
+Alignment: "Unaligned"
+AC: 14
+HP: 27
+speed: ["Walk 40 ft."]
+senses: ["Darkvision 60 ft."]
+CR: "1/2"
+source: ["Monster Manual", "XMM"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Rust Monster
+
+Medium Monstrosity, Unaligned
+
+**Armor Class**: 14
+**Hit Points**: 27
+**Speed**: walk 40 ft.
+**Senses**: Darkvision 60 ft.
+**Challenge**: 1/2
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 13 | 12 | 13 | 2 | 13 | 6 |
+
+### Traits
+***Iron Scent.*** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
+
+***Rust Metal.*** Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Non magical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
+
+### Actions
+***Bite.*** 3 to hit, reach 5 ft., one target. 5 (1d8 + 1) piercing damage.
+
+***Antennae.*** The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a 11 Dexterity saving throw to avoid the rust monster's touch. If the object touched is either metal armor or a metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.

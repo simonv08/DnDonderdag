@@ -1,0 +1,11 @@
+---
+name: "Oil of Sharpness"
+type: "Consumable"
+rarity: "Very rare"
+source: ["Dungeon Master's Guide"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Oil of Sharpness
+
+This clear, gelatinous oil sparkles with tiny, ultrathin silver shards. The oil can coat one slashing or piercing weapon or up to 5 pieces of slashing or piercing ammunition. Applying the oil takes 1 minute. For 1 hour, the coated item is magical and has a +3 bonus to attack and damage rolls.

@@ -1,0 +1,7 @@
+---
+name: "Astral Skiff"
+source: ["Monsters of the Multiverse"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Astral Skiff

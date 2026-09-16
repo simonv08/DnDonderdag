@@ -1,0 +1,33 @@
+---
+name: "Basilisk"
+size: ["Medium"]
+type: "Monstrosity"
+Alignment: "Unaligned"
+AC: 15
+HP: 52
+speed: ["Walk 20 ft."]
+senses: ["Darkvision 60 ft."]
+CR: "3"
+source: ["Monster Manual"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Basilisk
+
+Medium Monstrosity, Unaligned
+
+**Armor Class**: 15
+**Hit Points**: 52
+**Speed**: walk 20 ft.
+**Senses**: Darkvision 60 ft.
+**Challenge**: 3
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 16 | 8 | 15 | 2 | 8 | 7 |
+
+### Traits
+***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a 12 Constitution saving throw if the basilisk isn't [[Conditions#incapacitated|Incapacitated]]. On a failed save, the creature magically begins to turn to stone and is [[Conditions#restrained|Restrained]]. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [[Conditions#petrified|Petrified]] until freed by the [[Greater Restoration]] spell or other magic. A creature that isn't [[Statuss#surprised|Surprised]] can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
+
+### Actions
+***Bite.*** 5 to hit, reach 5 ft., one target. 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.

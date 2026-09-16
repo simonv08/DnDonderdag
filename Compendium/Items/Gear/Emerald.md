@@ -1,0 +1,11 @@
+---
+name: "Emerald"
+type: "Gear"
+cost: "1000gp"
+source: ["Dungeon Master's Guide"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Emerald
+
+A transparent deep bright green gemstone.

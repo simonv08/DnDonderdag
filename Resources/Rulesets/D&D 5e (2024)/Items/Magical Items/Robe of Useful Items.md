@@ -1,0 +1,24 @@
+---
+name: "Robe of Useful Items"
+rarity: "Uncommon"
+magical: true
+Attunement: false
+vermun: false
+source: ["XDMG"]
+ruleset: "D&D 5e (2025)"
+---
+
+# Robe of Useful Items
+
+This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can take a [[Actions#Magic|Magic]] action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
+
+The robe has two of each of the following patches:
+
+- [[Bullseye Lantern]] (filled and lit)
+- [[Dagger]]
+- [[Mirror]]
+- [[Pole]]
+- [[Rope]] (coiled)
+- [[Sack]]
+
+In addition, the robe has 4d4 other patches. The DM chooses the patches or determines them randomly by rolling on the following table.

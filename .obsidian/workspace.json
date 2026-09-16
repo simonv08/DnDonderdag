@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "f29fcd1008941a04",
+    "type": "split",
+    "children": [
+      {
+        "id": "413468c15d24d32f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9ae7995099885fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Aurelia/Aurelia - Adventure Hub.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aurelia - Adventure Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc115547c0e18814",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d714d273ce51f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b359a3b4c572ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e58bb825f6128952",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "The Manufactorium",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c958200e76429025",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d87bec912f0fe0b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7b019290f56b4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ca7c0eba2c04f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "503582ca068a3414",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "72a58fd040e560e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39dcc347d3434bc2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "78cdd67d73d38821",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "5648e19d1d3a6911",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-gameplay",
+              "state": {},
+              "icon": "gameplay",
+              "title": "Gameplay"
+            }
+          },
+          {
+            "id": "6f163403a52e1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-templates-sidebar",
+              "state": {},
+              "icon": "mapmaking",
+              "title": "VVorldbuiling"
+            }
+          },
+          {
+            "id": "2bae9e982861c82a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "4c5618fb7a184482",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-gameplay",
+              "state": {},
+              "icon": "gameplay",
+              "title": "Gameplay"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "modalforms:Edit forms": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian42-brat:BRAT": false,
+      "vvunderlore-toolkit:VVunderlore Sidebars": false
+    }
+  },
+  "active": "6f163403a52e1e8d",
+  "lastOpenFiles": [
+    "World/People/Player Characters/Active/John Almort.md",
+    "Adventures/Aurelia/Aurelia - Adventure Hub.md",
+    "World/People/Non-Player Characters/Captain Caelum.md",
+    "Adventures/Omninomicon.md",
+    "World/Places/Aurelia (Capital City).md",
+    "World/Places/The Manufactorium.md",
+    "World/People/Non-Player Characters/Silas Vane.md",
+    "World/People/Non-Player Characters/Sprocket.md",
+    "World/People/Non-Player Characters/Lyra Ironweaver.md",
+    "The Manufactorium.md",
+    "Untitled.md",
+    "Silas Vane (Manufactorium Owner).md",
+    "Extras/PC Dashboards/dash-John Almort.md",
+    "Welcome.md",
+    "Extras/SYS/Aurelia_summary.md",
+    "Extras/Templates/(Aurelia)sessiontemplate.md",
+    "Adventures/Aurelia/Session Notes",
+    "Adventures/Aurelia/Materials",
+    "Adventures/Aurelia/Adventure",
+    "Adventures/Aurelia",
+    "Compendium/Items/Magical Items/Barrier Tattoo (Small).md",
+    "Compendium/Rules and Reference/Conditions.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Zhentarim Mercenary.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Witherbloom Student.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Witchlight Hand.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Wildspacer.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Wayfarer.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Waterdhavian Noble.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Volstrucker Agent.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Vizier (Dissenter).md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Feats",
+    "Resources/Rulesets/D&D 5e (2024)/Rules and Reference",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Classes/Wizard/Subclasses",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Classes/Wizard",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Classes/Warlock/Subclasses",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

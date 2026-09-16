@@ -1,0 +1,10 @@
+{
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "userIgnoreFilters": [
+    "Resources/Rulesets/"
+  ]
+}

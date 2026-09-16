@@ -1,0 +1,26 @@
+---
+name: "Mage Armor"
+level: 1
+school: "Abjuration"
+casting_time: "1 action"
+Range: "Touch"
+duration: "8 hour"
+verbal: true
+somatic: true
+material: true
+Components: ["a piece of cured leather"]
+concentration: false
+source: ["Player's Handbook", "Dungeons and Dragons: Rick and Morty"]
+ruleset: "D&D 5e (2014)"
+---
+# Mage Armor
+### *1st-level Abjuration Spell*
+**Casting Time:** 1 action
+**Range:** Touch
+**Components:** V, S, M (a piece of cured leather)
+**Duration:** 8 hour
+
+You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+
+---
+**Source:** Player's Handbook (2014)

@@ -1,0 +1,30 @@
+---
+name: "Earth Tremor"
+level: 1
+school: "Evocation"
+casting_time: "1 action"
+Range: "10 feet"
+saving_throws: ["Dexterity"]
+damage_type: "bludgeoning"
+duration: "Instantaneous"
+verbal: true
+somatic: true
+material: false
+concentration: false
+source: ["Xanathar's Guide to Everything", "Elemental Evil Player's Companion"]
+ruleset: "D&D 5e (2014)"
+---
+# Earth Tremor
+### *1st-level Evocation Spell*
+**Casting Time:** 1 action
+**Range:** 10 feet
+**Components:** V, S
+**Saving Throw:** Dexterity
+**Duration:** Instantaneous
+
+You cause a tremor in the ground within range. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked [[Conditions#prone|Prone]]. If the ground in that area is loose earth or stone, it becomes [[Rules#Difficult Terrain]] until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+
+---
+**Source:** Xanathar's Guide to Everything

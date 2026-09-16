@@ -1,0 +1,15 @@
+---
+name: "Jade Serpent Staff"
+type: "OTH"
+rarity: "Unknown (magic)"
+source: ["Waterdeep: Dungeon of the Mad Mage"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Jade Serpent Staff
+
+This staff is broken into five pieces, each worth 100 gp for the jade alone. The entire staff can be restored with [[Mending]] cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an animated jade serpent that has the statistics of a [[Giant Poisonous Snake]], with these changes:
+
+- The serpent is a construct that understands and obeys whoever was holding the staff when it transformed.
+- It has immunity to poison damage and the [[Conditions#poisoned|Poisoned]] condition. It doesn't require air, food, drink, or sleep.
+- When it drops to 0 hit points, roll a d6. On a roll of 1, the snake turns to dust and is destroyed. On any other roll, it changes back into a staff and breaks into 1d4 + 1 pieces that must be magically mended before the staff can be used again.

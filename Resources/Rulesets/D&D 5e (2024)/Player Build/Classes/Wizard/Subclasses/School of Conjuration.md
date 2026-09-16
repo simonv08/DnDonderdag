@@ -1,0 +1,59 @@
+---
+traits: ["[[School of Conjuration#School Of Conjuration|School of Conjuration]]", "[[School of Conjuration#Conjuration Savant|Conjuration Savant]]", "[[School of Conjuration#Minor Conjuration|Minor Conjuration]]", "[[School of Conjuration#Benign Transposition|Benign Transposition]]", "[[School of Conjuration#Focused Conjuration|Focused Conjuration]]", "[[School of Conjuration#Durable Summons|Durable Summons]]"]
+---
+
+# School of Conjuration
+
+**Parent Class:** [[Wizard]]
+
+**Source:** PHB
+
+---
+
+## Level 2
+
+### School of Conjuration
+
+As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
+
+### Conjuration Savant
+
+Beginning when you select this school at 2nd level, the gold and time you must spend to copy a conjuration spell into your spellbook is halved.
+
+### Minor Conjuration
+
+Starting at 2nd level when you select this school, you can use your action to conjure up an inanimate object in your hand or on the ground in an unoccupied space that you can see within 10 feet of you. This object can be no larger than 3 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen. The object is visibly magical, radiating dim light out to 5 feet.
+
+The object disappears after 1 hour, when you use this feature again, if it takes any damage, or if it deals any damage.
+
+---
+
+## Level 3
+
+### School of Conjuration
+
+---
+
+## Level 6
+
+### Benign Transposition
+
+Starting at 6th level, you can use your action to teleport up to 30 feet to an unoccupied space that you can see. Alternatively, you can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, you both teleport, swapping places.
+
+Once you use this feature, you can't use it again until you finish a long rest or you cast a conjuration spell of 1st level or higher.
+
+---
+
+## Level 10
+
+### Focused Conjuration
+
+Beginning at 10th level, while you are [[Statuss#concentration|Concentration]] on a conjuration spell, your [[Statuss#concentration|Concentration]] can't be broken as a result of taking damage.
+
+---
+
+## Level 14
+
+### Durable Summons
+
+Starting at 14th level, any creature that you summon or create with a conjuration spell has 30 temporary hit points.

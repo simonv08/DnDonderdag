@@ -1,0 +1,20 @@
+---
+name: "Outer Essence Shard (Lawful)"
+type: "Spell Casting Focus"
+rarity: "Rare"
+weight: 1
+magical: true
+Attunement: true
+Attune_Req: ["Sorcerer"]
+vermun: false
+source: ["Tasha's Cauldron of Everything"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Outer Essence Shard (Lawful)
+
+This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.
+
+When you use a Metamagic option on a spell while you are holding or wearing the shard, you can use that property.
+#### Property
+You can end one of the following conditions affecting yourself or one creature you can see within 30 feet of you: [[Conditions#charmed|Charmed]], [[Conditions#blinded|Blinded]], [[Conditions#deafened|Deafened]], [[Conditions#frightened|Frightened]], [[Conditions#poisoned|Poisoned]], or [[Conditions#stunned|Stunned]].

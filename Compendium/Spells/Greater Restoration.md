@@ -1,0 +1,31 @@
+---
+name: "Greater Restoration"
+level: 5
+school: "Abjuration"
+casting_time: "1 action"
+Range: "Touch"
+duration: "Instantaneous"
+verbal: true
+somatic: true
+material: true
+Components: ["diamond dust worth at least 100 gp, which the spell consumes"]
+concentration: false
+source: ["Player's Handbook"]
+ruleset: "D&D 5e (2014)"
+---
+# Greater Restoration
+### *5th-level Abjuration Spell*
+**Casting Time:** 1 action
+**Range:** Touch
+**Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
+**Duration:** Instantaneous
+
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's [[Conditions#exhaustion|Exhaustion]] level by one, or end one of the following effects on the target:
+
+- One effect that [[Conditions#charmed|Charmed]] or [[Conditions#petrified|Petrified]] the target
+- One curse, including the target's attunement to a cursed magic item
+- Any reduction to one of the target's ability scores
+- One effect reducing the target's hit point maximum
+
+---
+**Source:** Player's Handbook (2014)

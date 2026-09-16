@@ -1,0 +1,40 @@
+---
+name: "Nightwalker"
+size: ["Huge"]
+type: "Undead"
+Alignment: "Chaotic Evil"
+HP: 297
+speed: ["Walk 40 ft.", "Fly 40 ft."]
+saving_throws: ["Constitution"]
+senses: ["Darkvision 120 ft."]
+CR: "20"
+source: ["Monsters of the Multiverse", "Mordenkainen Presents: Monsters of the Multiverse"]
+ruleset: "D&D 5e (2014)"
+---
+
+# Nightwalker
+
+Huge Undead, Chaotic Evil
+
+**Armor Class**: undefined
+**Hit Points**: 297
+**Speed**: walk 40 ft., fly 40 ft.
+**Saving Throws**: Constitution
+**Senses**: Darkvision 120 ft.
+**Challenge**: 20
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 22 | 19 | 24 | 6 | 9 | 8 |
+
+### Traits
+***Annihilating Aura.*** Any creature that starts its turn within 30 feet of the nightwalker must succeed on a 21 Constitution saving throw or take 14 (4d6) necrotic damage and grant the nightwalker advantage on attack rolls against it until the start of the creature's next turn. Undead are immune to this aura.
+
+***Life Eater.*** A creature reduced to 0 hit points from damage dealt by the nightwalker dies and can't be revived by any means short of a [[Wish]] spell.
+
+### Actions
+***Multiattack.*** The nightwalker uses Enervating Focus twice, or it uses Enervating Focus and Finger of Doom, if available.
+
+***Enervating Focus.*** 12 to hit, reach 15 ft., one target. 28 (5d8 + 6) necrotic damage. The target must succeed on a 21 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest.
+
+***Finger of Doom .*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a 21 Wisdom saving throw or take 26 (4d12) necrotic damage and become [[Conditions#frightened|Frightened]] until the end of the nightwalker's next turn. While [[Conditions#frightened|Frightened]] in this way, the creature is also [[Conditions#paralyzed|Paralyzed]]. If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.
