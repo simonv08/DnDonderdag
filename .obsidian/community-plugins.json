@@ -15,5 +15,6 @@
   "obsidian42-brat",
   "autolink",
   "local-gpt",
-  "ai-providers"
+  "ai-providers",
+  "git-vault-sync"
 ]

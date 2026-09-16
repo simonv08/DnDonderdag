@@ -226,6 +226,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "git-vault-sync:Git Vault Sync: Sync vault": false,
+      "git-vault-sync:Git Vault Sync: Review changes & sync": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
