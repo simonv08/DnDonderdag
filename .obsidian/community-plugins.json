@@ -1,20 +1,20 @@
 [
+  "git-vault-sync",
+  "obsidian42-brat",
   "table-editor-obsidian",
+  "ai-providers",
+  "autolink",
+  "callout-integrator",
   "dataview",
   "obsidian-5e-statblocks",
   "initiative-tracker",
   "js-engine",
   "obsidian-meta-bind-plugin",
   "modalforms",
+  "omnisearch",
   "quickadd",
   "obsidian-style-settings",
   "templater-obsidian",
-  "callout-integrator",
-  "omnisearch",
   "vvunderlore-toolkit",
-  "obsidian42-brat",
-  "autolink",
-  "local-gpt",
-  "ai-providers",
-  "git-vault-sync"
+  "local-gpt"
 ]
