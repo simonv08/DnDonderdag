@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "20cb399c19a8b4aa",
+        "id": "0ecf414f1968e5fa",
         "type": "tabs",
         "children": [
           {
-            "id": "4150a0077e0fa130",
+            "id": "478115c92843e9b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statuss.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Statuss"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -109,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statuss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statuss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statuss.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,13 +162,43 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "de272c09e49e797f",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-gameplay",
+              "state": {},
+              "icon": "gameplay",
+              "title": "Gameplay"
+            }
+          },
+          {
+            "id": "35f25c2a3a987aa0",
+            "type": "leaf",
+            "state": {
+              "type": "vvunderlore-templates-sidebar",
+              "state": {},
+              "icon": "mapmaking",
+              "title": "VVorldbuiling"
+            }
+          },
+          {
+            "id": "ad9de260308f990a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,11 +210,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "git-vault-sync:Git Vault Sync: Sync vault": false,
-      "git-vault-sync:Git Vault Sync: Review changes & sync": false
+      "git-vault-sync:Git Vault Sync: Review changes & sync": false,
+      "obsidian42-brat:BRAT": false,
+      "vvunderlore-toolkit:VVunderlore Sidebars": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "modalforms:Edit forms": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4150a0077e0fa130",
+  "active": "c35090f3d94c466b",
   "lastOpenFiles": [
+    "Compendium/Items/Magical Items/Acid Absorbing Tattoo.md",
     "Statuss.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Windvane.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Tinderstrike.md",
@@ -227,7 +249,6 @@
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Khrusor, Spear of Heliod.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Junky +1 Dagger.md",
     "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Javelin of Backbiting.md",
-    "Resources/Rulesets/D&D 5e (2024)/Items/Weapons and Armor/Weapons/Variants/Simple/Elven Thrower.md",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Species/Tiefling/Races/Variant",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Species/Merfolk/Races/Zendikar",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Species/Merfolk/Races/Ixalan",

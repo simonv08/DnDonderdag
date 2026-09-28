@@ -12,7 +12,7 @@
   "updateAtStartup": true,
   "updateThemesAtStartup": true,
   "enableAfterInstall": true,
-  "loggingEnabled": false,
+  "loggingEnabled": true,
   "loggingPath": "BRAT-log",
   "loggingVerboseEnabled": false,
   "debuggingMode": true,
