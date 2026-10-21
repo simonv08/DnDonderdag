@@ -40,7 +40,11 @@
   ],
   "hideBaseToolbar": false,
   "latestToolkitVersion": "1.1.8",
+<<<<<<< main
   "lastChecked": "2026-10-21T19:00:11.841Z",
+=======
+  "lastChecked": "2026-09-28T09:19:06.524Z",
+>>>>>>> origin/main
   "fileCache": {
     ".vvunderlore_installed": {
       "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -17437,10 +17441,25 @@
     "World/Places/Aurelia (Capital City).md": {
       "hash": "ebc876a7ea005d481be4666321228b8030ff67a97773dc56b5dd44a052e21163",
       "githubPath": "World/Places/Aurelia (Capital City).md"
+<<<<<<< main
     },
     "Adventures/Aurelia/Notes/Familiarity tree.md": {
       "hash": "023c36938f75a318ee22c5be42eaaf8ed1397bbb0c98ac63e9d88bfea337b684",
       "githubPath": "Adventures/Aurelia/Notes/Familiarity tree.md"
+=======
+    },
+    "Welcome.md": {
+      "hash": "ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8",
+      "githubPath": "Welcome.md"
+    },
+    "Adventures/Aurelia/Notes/Familiarity tree.md": {
+      "hash": "023c36938f75a318ee22c5be42eaaf8ed1397bbb0c98ac63e9d88bfea337b684",
+      "githubPath": "Adventures/Aurelia/Notes/Familiarity tree.md"
+>>>>>>> origin/main
     }
+  },
+  "gameplay": {
+    "selectedPlayers": [],
+    "activeFolder": "World/People/Player Characters/Active"
   }
 }

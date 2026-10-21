@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d75ba1ca9fd86c0a",
+        "id": "5b3b0e3c0f076a15",
         "type": "tabs",
         "children": [
           {
-            "id": "e509d92a7e847567",
+            "id": "83a048dd89ff1150",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compendium/Rules and Reference/Conditions.md",
+                "file": "Players/Yvonne (1).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Conditions"
+              "title": "Yvonne (1)"
             }
           }
         ]
@@ -245,27 +245,28 @@
       "vvunderlore-toolkit:VVunderlore Sidebars": false
     }
   },
-  "active": "6f163403a52e1e8d",
+  "active": "83a048dd89ff1150",
   "lastOpenFiles": [
+    "Players/Rosanne (24).md",
+    "Players/Marit (29).md",
+    "Players/Bram (58).md",
+    "World/Places/The Manufactorium.md",
+    "World/Places/Aurelia (Capital City).md",
+    "Adventures/Aurelia/Aurelia - Adventure Hub.md",
+    "Compendium/Rules and Reference/Conditions.md",
+    "Welcome.md",
     "Compendium/Bestiary/Monsters/Ancient Red Dragon.md",
     "Compendium/Bestiary/Monsters/Adult Red Dragon.md",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Initiate.md",
     "Compendium/Items/Gear/Pouch.md",
-    "Adventures/Aurelia/Aurelia - Adventure Hub.md",
     "Compendium/Items/Magical Items/Bag of Holding.md",
     "Adventures/Aurelia/Notes/Familiarity tree.md",
     "Players/Yvonne (1).md",
-    "Players/Rosanne (24).md",
-    "Players/Marit (29).md",
-    "Players/Bram (58).md",
     "Adventures/Aurelia/Notes",
     "Players",
-    "Welcome.md",
     "World/People/Player Characters/Active/John Almort.md",
     "World/People/Non-Player Characters/Captain Caelum.md",
     "Adventures/Omninomicon.md",
-    "World/Places/Aurelia (Capital City).md",
-    "World/Places/The Manufactorium.md",
     "World/People/Non-Player Characters/Silas Vane.md",
     "World/People/Non-Player Characters/Sprocket.md",
     "World/People/Non-Player Characters/Lyra Ironweaver.md",
@@ -274,7 +275,6 @@
     "Silas Vane (Manufactorium Owner).md",
     "Extras/PC Dashboards/dash-John Almort.md",
     "Extras/SYS/Aurelia_summary.md",
-    "Extras/Templates/(Aurelia)sessiontemplate.md",
     "Adventures/Aurelia/Session Notes",
     "Adventures/Aurelia/Materials",
     "Adventures/Aurelia/Adventure",

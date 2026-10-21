@@ -1,5 +1,5 @@
 {
-  "mode": "autonomous",
+  "mode": "suggestions",
   "minWordLength": 3,
   "caseSensitive": false,
   "includeAliases": true,
