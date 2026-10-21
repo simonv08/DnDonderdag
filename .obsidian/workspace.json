@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "413468c15d24d32f",
+        "id": "d75ba1ca9fd86c0a",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ae7995099885fd",
+            "id": "e509d92a7e847567",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Aurelia/Aurelia - Adventure Hub.md",
+                "file": "Compendium/Rules and Reference/Conditions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aurelia - Adventure Hub"
+              "title": "Conditions"
             }
           }
         ]
@@ -52,7 +52,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -247,8 +247,20 @@
   },
   "active": "6f163403a52e1e8d",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Compendium/Bestiary/Monsters/Ancient Red Dragon.md",
+    "Compendium/Bestiary/Monsters/Adult Red Dragon.md",
+    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Initiate.md",
+    "Compendium/Items/Gear/Pouch.md",
     "Adventures/Aurelia/Aurelia - Adventure Hub.md",
+    "Compendium/Items/Magical Items/Bag of Holding.md",
+    "Adventures/Aurelia/Notes/Familiarity tree.md",
+    "Players/Yvonne (1).md",
+    "Players/Rosanne (24).md",
+    "Players/Marit (29).md",
+    "Players/Bram (58).md",
+    "Adventures/Aurelia/Notes",
+    "Players",
+    "Welcome.md",
     "World/People/Player Characters/Active/John Almort.md",
     "World/People/Non-Player Characters/Captain Caelum.md",
     "Adventures/Omninomicon.md",
@@ -267,22 +279,10 @@
     "Adventures/Aurelia/Materials",
     "Adventures/Aurelia/Adventure",
     "Adventures/Aurelia",
-    "Compendium/Items/Magical Items/Barrier Tattoo (Small).md",
-    "Compendium/Rules and Reference/Conditions.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Zhentarim Mercenary.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Witherbloom Student.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Witchlight Hand.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Wildspacer.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Wayfarer.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Waterdhavian Noble.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Volstrucker Agent.md",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds/Vizier (Dissenter).md",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Backgrounds",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Feats",
     "Resources/Rulesets/D&D 5e (2024)/Rules and Reference",
     "Resources/Rulesets/D&D 5e (2024)/Player Build/Classes/Wizard/Subclasses",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Classes/Wizard",
-    "Resources/Rulesets/D&D 5e (2024)/Player Build/Classes/Warlock/Subclasses",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
