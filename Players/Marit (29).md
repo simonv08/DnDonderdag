@@ -1,0 +1,1 @@
+This pair of bronze shears can be used to cut through any item that is less than 1 inch thick and 3 inches wide(as an action, once a day)

@@ -1,0 +1,1 @@
+A small amulet in the shape of a large reptilian claw, Once activated, Beasts will not come within 5 feet of the amulet. This feature lasts for 1 minute and cannot be used again for 2 days.
